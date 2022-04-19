@@ -74,10 +74,6 @@ public class MovieRecommender {
             catch (IOException e) {
             }
             
-            
-            System.out.println(reviews);
-            System.out.println(productsID.size());
-            System.out.println(usersID.size());
         } 
         catch (IOException e) {
             
